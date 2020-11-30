@@ -74,12 +74,12 @@ h4 {
 }
 
 .money.plus {
-  color: #b6960a;
+  color: #077c0d;
   font-weight: bold;
 }
 
 .money.minus {
-  color: #2da3ad;
+  color: #bb0000;
   font-weight: bold;
 }
 
@@ -101,7 +101,7 @@ input[type='number'] {
 
 .btn {
   cursor: pointer;
-  background-color: lightsteelblue;
+  background-color: rgb(10, 68, 144);
   box-shadow: var(--box-shadow);
   color: #fff;
   border: 0;
@@ -136,22 +136,22 @@ input[type='number'] {
 }
 
 .list li.plus {
-  border-right: 5px solid #b6960a;
+  border-right: 5px solid #077c0d;
 }
 
 .list li.plus:hover {
-  border-right: 5px solid #b6960a;
-  background-color: #b6960a;
+  border-right: 5px solid #077c0d;
+  background-color: #077c0d;
   color: #f7f7f7
 }
 
 .list li.minus {
-  border-right: 5px solid #2da3ad;
+  border-right: 5px solid #bb0000;
 }
 
 .list li.minus:hover {
-  border-right: 5px solid #2da3ad;
-  background-color: #2da3ad;
+  border-right: 5px solid #bb0000;
+  background-color: #bb0000;
   color: #f7f7f7
 }
 
