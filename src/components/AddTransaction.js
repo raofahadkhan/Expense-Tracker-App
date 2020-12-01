@@ -9,7 +9,7 @@ const AddTransaction = () => {
             <h3>Add New Transaction</h3>
             <form>
                 <div className="form-control">
-                    <label htmlfor="description">Description</label>
+                    <label htmlFor="description">Description</label>
                     <input type="text" 
                             id="description" 
                             placeholder="Detail of Transaction" 
