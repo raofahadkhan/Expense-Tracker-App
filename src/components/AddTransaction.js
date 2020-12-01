@@ -25,7 +25,7 @@ const AddTransaction = () => {
                             id="transactionamount" 
                             placeholder="Enter transaction amount" 
                             value={transactionAmount} 
-                            onChange={(e) => settransactionAmount(e.target.value)
+                            onChange={(e) => settransactionAmount(e.target.value)}
                     />
                     <button className="btn">Add Transaction</button>
                 </div>
